@@ -30,10 +30,8 @@ The bot keeps a score of how many questions are answered correctly/incorrectly a
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Ella Zilberman
+[@EllaNZil](https://github.com/EllaNZil)
 
 ## Version History
 
